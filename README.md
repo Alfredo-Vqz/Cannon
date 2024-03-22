@@ -1,1 +1,1 @@
-# Codigo original de cannon.py
+Dentro de este rproyecto editamos el juego de Cannon, donde primero hizimos que los balones y el pryectil se movieran mas rapido, ademas tambien cambiamos que en vezde qu el juego termine al llegar un balon al extremo de la pantalla, estos regresen al inicio de la misma.
